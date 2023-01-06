@@ -105,7 +105,7 @@
   {
     "id": "porcinos-fc",
     "name": "Porcinos FC",
-    "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/porcinos-fc.svg",
+    "image": "https://kings-league-api.mahechahe.workers.dev/static/logos/porcinos-fc.svg",
     "url": "",
     "presidentId": "ibai-llanos",
     "channel": "https://twitch.tv/ibai",
@@ -119,7 +119,7 @@
   {
     "id": "rayo-barcelona",
     "name": "Rayo de Barcelona",
-    "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/rayo-barcelona.svg",
+    "image": "https://kings-league-api.mahechahe.workers.dev/static/logos/rayo-barcelona.svg",
     "url": "",
     "presidentId": "spursito",
     "channel": "https://twitch.tv/spursito",
@@ -135,7 +135,7 @@
   {
     "id": "xbuyer-team",
     "name": "XBUYER TEAM",
-    "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/xbuyer.svg",
+    "image": "https://kings-league-api.mahechahe.workers.dev/static/logos/xbuyer.svg",
     "url": "",
     "presidentId": "hnos-buyer",
     "channel": "https://www.youtube.com/xbuyer",
@@ -148,7 +148,7 @@
   {
     "id": "aniquiladores-fc",
     "name": "Aniquiladores FC",
-    "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/aniquiladores.svg",
+    "image": "https://kings-league-api.mahechahe.workers.dev/static/logos/aniquiladores.svg",
     "url": "",
     "presidentId": "juan-guarnizo",
     "channel": "https://twitch.tv/juansguarnizo",
@@ -161,7 +161,7 @@
   {
     "id": "pio-fc",
     "name": "PIO FC",
-    "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/pio.svg",
+    "image": "https://kings-league-api.mahechahe.workers.dev/static/logos/pio.svg",
     "url": "",
     "presidentId": "rivers",
     "channel": "https://twitch.tv/rivers_gg",
