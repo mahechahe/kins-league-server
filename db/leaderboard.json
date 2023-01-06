@@ -9,7 +9,7 @@
     "team": {
       "id": "el-barrio",
       "name": "El Barrio",
-      "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/el-barrio.svg",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg",
       "url": "",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
@@ -23,7 +23,7 @@
       "president": {
         "id": "adri-contreras",
         "name": "Adri Contreras",
-        "image": "https://kings-league-api.mahechahe.workers.dev//static/presidents/adri-contreras.png",
+        "image": "https://kings-league-api.midudev.workers.dev/static/presidents/adri-contreras.png",
         "teamId": "el-barrio"
       }
     }
@@ -38,7 +38,7 @@
     "team": {
       "id": "ultimate-mostoles",
       "name": "Ultimate Móstoles",
-      "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/ultimate-mostoles.svg",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/ultimate-mostoles.svg",
       "url": "",
       "channel": "https://youtube.com/DjMaRiiO",
       "coach": "???",
@@ -49,7 +49,7 @@
       "president": {
         "id": "djmariio",
         "name": "DjMaRiiO",
-        "image": "https://kings-league-api.mahechahe.workers.dev//static/presidents/djmariio.png",
+        "image": "https://kings-league-api.midudev.workers.dev/static/presidents/djmariio.png",
         "teamId": "ultimate-mostoles"
       }
     }
@@ -64,7 +64,7 @@
     "team": {
       "id": "los-troncos-fc",
       "name": "Los Troncos FC",
-      "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/los-troncos.svg",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/los-troncos.svg",
       "url": "",
       "channel": "https://twitch.tv/perxitaa",
       "coach": "???",
@@ -78,7 +78,7 @@
       "president": {
         "id": "perxitaa",
         "name": "Perxitaa",
-        "image": "https://kings-league-api.mahechahe.workers.dev//static/presidents/perxitaa.png",
+        "image": "https://kings-league-api.midudev.workers.dev/static/presidents/perxitaa.png",
         "teamId": "los-troncos-fc"
       }
     }
@@ -93,7 +93,7 @@
     "team": {
       "id": "1k",
       "name": "1K FC",
-      "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/1k.svg",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/1k.svg",
       "url": "",
       "channel": "https://www.youtube.com/@IkerCasillas",
       "coach": "???",
@@ -107,7 +107,7 @@
       "president": {
         "id": "iker-casillas",
         "name": "Iker Casillas",
-        "image": "https://kings-league-api.mahechahe.workers.dev//static/presidents/iker-casillas.png",
+        "image": "https://kings-league-api.midudev.workers.dev/static/presidents/iker-casillas.png",
         "teamId": "1k"
       }
     }
@@ -122,7 +122,7 @@
     "team": {
       "id": "saiyans-fc",
       "name": "Saiyans FC",
-      "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/saiyans-fc.svg",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg",
       "url": "",
       "channel": "https://twitch.tv/thegrefg",
       "coach": "???",
@@ -133,7 +133,7 @@
       "president": {
         "id": "thegrefg",
         "name": "TheGrefg",
-        "image": "https://kings-league-api.mahechahe.workers.dev//static/presidents/thegrefg.png",
+        "image": "https://kings-league-api.midudev.workers.dev/static/presidents/thegrefg.png",
         "teamId": "saiyans-fc"
       }
     }
@@ -148,7 +148,7 @@
     "team": {
       "id": "kunisports",
       "name": "Kunisports",
-      "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/kunisports.svg",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/kunisports.svg",
       "url": "",
       "channel": "https://twitch.tv/slakun10",
       "coach": "???",
@@ -159,7 +159,7 @@
       "president": {
         "id": "kun-aguero",
         "name": "Kun Agüero",
-        "image": "https://kings-league-api.mahechahe.workers.dev//static/presidents/kun-aguero.png",
+        "image": "https://kings-league-api.midudev.workers.dev/static/presidents/kun-aguero.png",
         "teamId": "kunisports"
       }
     }
@@ -174,7 +174,7 @@
     "team": {
       "id": "jijantes-fc",
       "name": "Jijantes FC",
-      "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/jijantes.svg",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/jijantes.svg",
       "url": "",
       "channel": "https://twitch.tv/gerardromero",
       "coach": "???",
@@ -188,7 +188,7 @@
       "president": {
         "id": "gerard-romero",
         "name": "Gerard Romero",
-        "image": "https://kings-league-api.mahechahe.workers.dev//static/presidents/gerard-romero.png",
+        "image": "https://kings-league-api.midudev.workers.dev/static/presidents/gerard-romero.png",
         "teamId": "jijantes-fc"
       }
     }
@@ -203,7 +203,7 @@
     "team": {
       "id": "porcinos-fc",
       "name": "Porcinos FC",
-      "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/porcinos-fc.svg",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg",
       "url": "",
       "channel": "https://twitch.tv/ibai",
       "coach": "???",
@@ -215,7 +215,7 @@
       "president": {
         "id": "ibai-llanos",
         "name": "Ibai Llanos",
-        "image": "https://kings-league-api.mahechahe.workers.dev//static/presidents/ibai-llanos.png",
+        "image": "https://kings-league-api.midudev.workers.dev/static/presidents/ibai-llanos.png",
         "teamId": "porcinos-fc"
       }
     }
@@ -230,7 +230,7 @@
     "team": {
       "id": "rayo-barcelona",
       "name": "Rayo de Barcelona",
-      "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/rayo-barcelona.svg",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/rayo-barcelona.svg",
       "url": "",
       "channel": "https://twitch.tv/spursito",
       "coach": "???",
@@ -244,7 +244,7 @@
       "president": {
         "id": "spursito",
         "name": "Spursito",
-        "image": "https://kings-league-api.mahechahe.workers.dev//static/presidents/spursito.png",
+        "image": "https://kings-league-api.midudev.workers.dev/static/presidents/spursito.png",
         "teamId": "rayo-barcelona"
       }
     }
@@ -259,7 +259,7 @@
     "team": {
       "id": "xbuyer-team",
       "name": "XBUYER TEAM",
-      "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/xbuyer.svg",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/xbuyer.svg",
       "url": "",
       "channel": "https://www.youtube.com/xbuyer",
       "coach": "???",
@@ -270,7 +270,7 @@
       "president": {
         "id": "hnos-buyer",
         "name": "Hnos. Buyer",
-        "image": "https://kings-league-api.mahechahe.workers.dev//static/presidents/hnos-buyer.png",
+        "image": "https://kings-league-api.midudev.workers.dev/static/presidents/hnos-buyer.png",
         "teamId": "xbuyer-team"
       }
     }
@@ -285,7 +285,7 @@
     "team": {
       "id": "aniquiladores-fc",
       "name": "Aniquiladores FC",
-      "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/aniquiladores.svg",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/aniquiladores.svg",
       "url": "",
       "channel": "https://twitch.tv/juansguarnizo",
       "coach": "???",
@@ -296,7 +296,7 @@
       "president": {
         "id": "juan-guarnizo",
         "name": "Juan Guarnizo",
-        "image": "https://kings-league-api.mahechahe.workers.dev//static/presidents/juan-guarnizo.png",
+        "image": "https://kings-league-api.midudev.workers.dev/static/presidents/juan-guarnizo.png",
         "teamId": "aniquiladores-fc"
       }
     }
@@ -311,7 +311,7 @@
     "team": {
       "id": "pio-fc",
       "name": "PIO FC",
-      "image": "https://kings-league-api.mahechahe.workers.dev//static/logos/pio.svg",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/pio.svg",
       "url": "",
       "channel": "https://twitch.tv/rivers_gg",
       "coach": "???",
@@ -323,7 +323,7 @@
       "president": {
         "id": "rivers",
         "name": "Rivers",
-        "image": "https://kings-league-api.mahechahe.workers.dev//static/presidents/rivers.png",
+        "image": "https://kings-league-api.midudev.workers.dev/static/presidents/rivers.png",
         "teamId": "pio-fc"
       }
     }
