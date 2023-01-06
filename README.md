@@ -14,9 +14,3 @@ Endpoints disponibles:
 * GET `/presidents`: Devuelve todos los presidentes de la Kings League.
 * GET `/presidents/:id`: Devuelve un presidente de la Kings League.
 
-## Web
-
-¿Quieres ver cómo vamos haciendo la web?
-¡Pásate por mi Twitch!
-
-https://twitch.tv/midudev
