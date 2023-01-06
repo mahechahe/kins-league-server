@@ -1,5 +1,6 @@
 import * as cheerio from 'cheerio'
 import { writeDBFile, TEAMS, PRESIDENTS } from '../db/index.js'
+import fetch from 'node-fetch'
 
 const URLS = {
   leaderboard: 'https://kingsleague.pro/estadisticas/clasificacion/'

@@ -1,5 +1,6 @@
 import { writeFile, readFile } from 'node:fs/promises'
 import path from 'node:path'
+import fetch from 'node-fetch'
 
 const STATICS_PATH = path.join(process.cwd(), './assets/static/presidents')
 const DB_PATH = path.join(process.cwd(), './db/')
